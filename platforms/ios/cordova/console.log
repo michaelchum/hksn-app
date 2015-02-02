@@ -1,0 +1,850 @@
+2015-01-26 23:53:04.176 Hello World[15659:27734535] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/EDB609F5-1444-4E4D-BA01-E4517718528F/Library/Cookies/Cookies.binarycookies
+2015-01-26 23:53:04.557 Hello World[15659:27734535] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-26 23:53:04.558 Hello World[15659:27734535] Multi-tasking -> Device: YES, App: YES
+2015-01-26 23:53:04.574 Hello World[15659:27734535] Unlimited access to network resources
+2015-01-26 23:53:04.587 Hello World[15659:27734535] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-26 23:53:05.953 Hello World[15659:27734535] Resetting plugins due to page load.
+2015-01-26 23:53:06.129 Hello World[15659:27734535] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/B5DBC93C-23DE-4168-9445-5CF4F11715AE/Hello%20World.app/www/index.html
+2015-01-27 00:28:47.415 Hello World[16054:27751642] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/2BDB4856-586B-4F1A-8FA6-B4F843D329D1/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:28:47.777 Hello World[16054:27751642] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:28:47.777 Hello World[16054:27751642] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:28:47.813 Hello World[16054:27751642] Unlimited access to network resources
+2015-01-27 00:28:47.827 Hello World[16054:27751642] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:28:48.724 Hello World[16054:27751642] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:28:50.227 Hello World[16054:27751642] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/4E94FA38-9FF3-443A-AB57-988E6FE2B9EE/Hello%20World.app/www/index.html
+2015-01-27 00:37:51.239 HKSN App[16305:27757957] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/85699606-613C-43FB-9FD1-70BEC247BF9F/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:37:51.334 HKSN App[16305:27757957] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:37:51.334 HKSN App[16305:27757957] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:37:51.336 HKSN App[16305:27757957] Unlimited access to network resources
+2015-01-27 00:37:51.338 HKSN App[16305:27757957] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:37:52.129 HKSN App[16305:27757957] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:37:52.876 HKSN App[16305:27757957] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/8C2345A8-CBFB-4161-AFB3-5382DFC4F720/HKSN%20App.app/www/index.html
+2015-01-27 00:38:58.378 HKSN App[16499:27759590] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Data/Application/6F2BAA77-8FDF-44E4-AD4F-1E6C7556A721/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:38:58.605 HKSN App[16499:27759590] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:38:58.606 HKSN App[16499:27759590] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:38:58.608 HKSN App[16499:27759590] Unlimited access to network resources
+2015-01-27 00:38:58.610 HKSN App[16499:27759590] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:38:59.453 HKSN App[16499:27759590] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:39:00.220 HKSN App[16499:27759590] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Bundle/Application/ADECD61E-5F98-4E6B-B167-F1CD5BBBEE08/HKSN%20App.app/www/index.html
+2015-01-27 00:42:54.646 HKSN App[16718:27762806] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/4FB6FFFF-C6B7-4BB1-AAFC-1BFC7925F12E/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:42:54.922 HKSN App[16718:27762806] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:42:54.923 HKSN App[16718:27762806] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:42:54.929 HKSN App[16718:27762806] Unlimited access to network resources
+2015-01-27 00:42:54.938 HKSN App[16718:27762806] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:42:55.865 HKSN App[16718:27762806] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:42:58.675 HKSN App[16718:27762806] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/D33B9778-ADCE-4BE9-9DB9-848AF259D884/HKSN%20App.app/www/index.html
+2015-01-27 00:44:06.502 HKSN App[16924:27764657] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/823891D7-020D-4A45-B628-55C49814F189/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:44:06.797 HKSN App[16924:27764657] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:44:06.798 HKSN App[16924:27764657] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:44:06.804 HKSN App[16924:27764657] Unlimited access to network resources
+2015-01-27 00:44:06.812 HKSN App[16924:27764657] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:44:07.699 HKSN App[16924:27764657] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:44:10.366 HKSN App[16924:27764657] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/A7391A46-25E1-4D1E-817A-14EC4AC2B071/HKSN%20App.app/www/index.html
+2015-01-27 00:45:32.992 HKSN App[17118:27766480] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/FDF5F4EF-6536-430B-8D90-7ADA30BEEB5F/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:45:33.420 HKSN App[17118:27766480] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:45:33.422 HKSN App[17118:27766480] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:45:33.428 HKSN App[17118:27766480] Unlimited access to network resources
+2015-01-27 00:45:33.436 HKSN App[17118:27766480] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:45:36.854 HKSN App[17118:27766480] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:45:39.893 HKSN App[17118:27766480] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/11B5E15D-F1CD-4D1C-8D6E-DA9D8609753D/HKSN%20App.app/www/index.html
+2015-01-27 00:47:58.685 HKSN App[17334:27768718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/1C37F8FB-B24B-4B86-A3D2-E7EE50336E3C/Library/Cookies/Cookies.binarycookies
+2015-01-27 00:47:58.949 HKSN App[17334:27768718] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 00:47:58.950 HKSN App[17334:27768718] Multi-tasking -> Device: YES, App: YES
+2015-01-27 00:47:58.955 HKSN App[17334:27768718] Unlimited access to network resources
+2015-01-27 00:47:58.961 HKSN App[17334:27768718] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 00:47:59.623 HKSN App[17334:27768718] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 00:48:02.661 HKSN App[17334:27768718] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/F8B08C29-E49A-484B-8E20-50721A48241F/HKSN%20App.app/www/index.html
+2015-01-27 11:30:41.218 HKSN App[17892:27821219] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/F8E18AD1-0E8D-4A18-A45B-C56F2DE3F980/Library/Cookies/Cookies.binarycookies
+2015-01-27 11:30:41.762 HKSN App[17892:27821219] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 11:30:41.762 HKSN App[17892:27821219] Multi-tasking -> Device: YES, App: YES
+2015-01-27 11:30:41.813 HKSN App[17892:27821219] Unlimited access to network resources
+2015-01-27 11:30:41.827 HKSN App[17892:27821219] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 11:30:42.606 HKSN App[17892:27821219] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 11:30:43.260 HKSN App[17892:27821219] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/9C2DDFDB-E416-4B51-96E5-8C7E1237FBEC/HKSN%20App.app/www/index.html
+2015-01-27 11:52:18.682 HKSN App[18069:27829360] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/16800BB2-0F7A-49DA-B7CF-A7573DE1A3E3/Library/Cookies/Cookies.binarycookies
+2015-01-27 11:52:19.060 HKSN App[18069:27829360] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 11:52:19.062 HKSN App[18069:27829360] Multi-tasking -> Device: YES, App: YES
+2015-01-27 11:52:19.106 HKSN App[18069:27829360] Unlimited access to network resources
+2015-01-27 11:52:19.118 HKSN App[18069:27829360] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 11:52:19.834 HKSN App[18069:27829360] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 11:52:20.490 HKSN App[18069:27829360] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/98AE9867-F679-4729-A5B1-B8B9E1F71FB0/HKSN%20App.app/www/index.html
+2015-01-27 12:09:55.464 HKSN App[18376:27840161] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/75A780E2-9013-4045-921A-1991EE9C25A0/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:09:56.013 HKSN App[18376:27840161] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:09:56.015 HKSN App[18376:27840161] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:09:56.067 HKSN App[18376:27840161] Unlimited access to network resources
+2015-01-27 12:09:56.082 HKSN App[18376:27840161] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:09:56.896 HKSN App[18376:27840161] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:09:58.128 HKSN App[18376:27840161] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/6C549104-8EF4-4B4D-96C7-3B67759C0C47/HKSN%20App.app/www/www-backup1/index.html
+2015-01-27 12:10:24.625 HKSN App[18635:27841452] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/793F18CB-7086-4D91-9148-228768CE919D/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:10:24.685 HKSN App[18635:27841452] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:10:24.685 HKSN App[18635:27841452] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:10:24.686 HKSN App[18635:27841452] Unlimited access to network resources
+2015-01-27 12:10:24.688 HKSN App[18635:27841452] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:10:24.861 HKSN App[18635:27841452] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:10:25.562 HKSN App[18635:27841452] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/19097276-C2EB-4E88-82E8-88862B50EC86/HKSN%20App.app/www/www-backup1/index.html
+2015-01-27 12:10:44.651 HKSN App[18885:27842507] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/A6183C93-74D5-455C-B873-99B2CC7AB9EA/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:10:44.749 HKSN App[18885:27842507] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:10:44.750 HKSN App[18885:27842507] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:10:44.751 HKSN App[18885:27842507] Unlimited access to network resources
+2015-01-27 12:10:44.753 HKSN App[18885:27842507] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:10:44.961 HKSN App[18885:27842507] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:10:45.261 HKSN App[18885:27842507] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/410095BF-ED5E-4066-A381-02BEB6CCD8D8/HKSN%20App.app/www/index.html
+2015-01-27 12:11:16.428 HKSN App[19370:27844319] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Data/Application/9B549149-2F5D-4AF8-8CB4-8248135B20F7/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:11:16.508 HKSN App[19370:27844319] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:11:16.509 HKSN App[19370:27844319] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:11:16.511 HKSN App[19370:27844319] Unlimited access to network resources
+2015-01-27 12:11:16.513 HKSN App[19370:27844319] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:11:17.673 HKSN App[19370:27844319] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:11:18.004 HKSN App[19370:27844319] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Bundle/Application/467EBAEF-5524-4C0B-8A59-99871ABDC44A/HKSN%20App.app/www/index.html
+2015-01-27 12:12:18.745 HKSN App[19625:27845756] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Data/Application/239D2AD3-1810-4C75-A8E5-AE4F07C84C30/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:12:18.926 HKSN App[19625:27845756] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:12:18.927 HKSN App[19625:27845756] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:12:18.928 HKSN App[19625:27845756] Unlimited access to network resources
+2015-01-27 12:12:18.931 HKSN App[19625:27845756] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:12:19.174 HKSN App[19625:27845756] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:12:20.101 HKSN App[19625:27845756] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Bundle/Application/22F79467-1563-40D3-876A-D226B6A9B2EE/HKSN%20App.app/www/www-backup1/index.html
+2015-01-27 12:13:41.434 HKSN App[19878:27847103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Data/Application/EF569F74-35B8-4CED-95E1-48DE2083C25B/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:13:41.635 HKSN App[19878:27847103] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:13:41.635 HKSN App[19878:27847103] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:13:41.636 HKSN App[19878:27847103] Unlimited access to network resources
+2015-01-27 12:13:41.638 HKSN App[19878:27847103] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:13:41.907 HKSN App[19878:27847103] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:13:42.619 HKSN App[19878:27847103] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Bundle/Application/96F9ADAF-4AF3-437E-B3A0-CF686A72144F/HKSN%20App.app/www/www-backup1/index.html
+2015-01-27 12:14:03.019 HKSN App[20129:27848121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Data/Application/F6C71523-05F3-46FE-965C-89E5DE893604/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:14:03.220 HKSN App[20129:27848121] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:14:03.220 HKSN App[20129:27848121] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:14:03.221 HKSN App[20129:27848121] Unlimited access to network resources
+2015-01-27 12:14:03.223 HKSN App[20129:27848121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:14:03.459 HKSN App[20129:27848121] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:14:03.768 HKSN App[20129:27848121] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/44575125-1A4F-40E6-9418-AE69A90ECF45/data/Containers/Bundle/Application/27FB8D09-E7D4-4E3C-8E61-E0E4EC9E550A/HKSN%20App.app/www/index.html
+2015-01-27 12:14:16.092 HKSN App[20377:27848954] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Data/Application/95116063-715F-490C-AA5E-0071B7240C76/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:14:16.221 HKSN App[20377:27848954] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:14:16.221 HKSN App[20377:27848954] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:14:16.223 HKSN App[20377:27848954] Unlimited access to network resources
+2015-01-27 12:14:16.225 HKSN App[20377:27848954] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:14:16.398 HKSN App[20377:27848954] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:14:16.687 HKSN App[20377:27848954] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Bundle/Application/65531D3C-C956-46C7-966A-F68BBFED1969/HKSN%20App.app/www/index.html
+2015-01-27 12:14:28.180 HKSN App[20628:27849914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/F7A55BF8-20EF-4D41-9F45-10859DBA1A29/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:14:28.279 HKSN App[20628:27849914] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:14:28.279 HKSN App[20628:27849914] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:14:28.280 HKSN App[20628:27849914] Unlimited access to network resources
+2015-01-27 12:14:28.282 HKSN App[20628:27849914] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:14:28.450 HKSN App[20628:27849914] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:14:28.737 HKSN App[20628:27849914] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/DCA0CEE6-03D3-4018-BFC5-B2DFBABAB429/HKSN%20App.app/www/index.html
+2015-01-27 12:15:03.053 HKSN App[20885:27850989] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/8407C53A-54E2-4B35-A29C-0466DA4808E4/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:15:03.115 HKSN App[20885:27850989] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:15:03.116 HKSN App[20885:27850989] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:15:03.117 HKSN App[20885:27850989] Unlimited access to network resources
+2015-01-27 12:15:03.119 HKSN App[20885:27850989] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:15:03.287 HKSN App[20885:27850989] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:15:03.575 HKSN App[20885:27850989] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/063FA08E-BA11-4373-9480-981436B8FD97/HKSN%20App.app/www/index.html
+2015-01-27 12:38:55.019 HKSN App[21175:27866118] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/CA09647A-49E7-49A7-9AC4-FED647E23C4F/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:38:55.770 HKSN App[21175:27866118] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:38:55.774 HKSN App[21175:27866118] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:38:55.831 HKSN App[21175:27866118] Unlimited access to network resources
+2015-01-27 12:38:55.868 HKSN App[21175:27866118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:38:57.101 HKSN App[21175:27866118] Resetting plugins due to page load.
+2015-01-27 12:38:57.264 HKSN App[21175:27866118] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/8053161F-8088-4974-8365-542EC381B53A/HKSN%20App.app/www/index.html
+2015-01-27 12:38:57.267 HKSN App[21175:27866118] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:38:58.789 HKSN App[21175:27866118] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/8053161F-8088-4974-8365-542EC381B53A/HKSN%20App.app/www/iphone5/index.html
+2015-01-27 12:40:23.150 HKSN App[21430:27868215] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/E2AD6CFA-BD5B-4EA7-95B1-523E7441D90E/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:40:23.221 HKSN App[21430:27868215] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:40:23.221 HKSN App[21430:27868215] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:40:23.223 HKSN App[21430:27868215] Unlimited access to network resources
+2015-01-27 12:40:23.226 HKSN App[21430:27868215] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:40:23.454 HKSN App[21430:27868215] Resetting plugins due to page load.
+2015-01-27 12:40:23.475 HKSN App[21430:27868215] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/F99086E0-5F5F-4FB8-B820-8C9A052C37CD/HKSN%20App.app/www/index.html
+2015-01-27 12:40:23.476 HKSN App[21430:27868215] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 12:40:24.215 HKSN App[21430:27868215] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/F99086E0-5F5F-4FB8-B820-8C9A052C37CD/HKSN%20App.app/www/iphone5/index.html
+2015-01-27 12:40:50.058 HKSN App[21430:27868555] Terminating since there is no system app.
+2015-01-27 12:41:51.064 HKSN App[21681:27870075] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/48AB63C4-8C49-4250-B508-40085D0FFAB1/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:41:51.154 HKSN App[21681:27870075] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:41:51.155 HKSN App[21681:27870075] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:41:51.156 HKSN App[21681:27870075] Unlimited access to network resources
+2015-01-27 12:41:51.158 HKSN App[21681:27870075] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:41:51.329 HKSN App[21681:27870075] Resetting plugins due to page load.
+2015-01-27 12:41:51.355 HKSN App[21681:27870075] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/C89EE30B-DFF1-4963-905C-C5804C195F42/HKSN%20App.app/www/index.html
+2015-01-27 12:47:12.671 HKSN App[21945:27874344] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/5836D1CE-657B-4A37-A65A-E460DCD82248/Library/Cookies/Cookies.binarycookies
+2015-01-27 12:47:12.730 HKSN App[21945:27874344] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 12:47:12.730 HKSN App[21945:27874344] Multi-tasking -> Device: YES, App: YES
+2015-01-27 12:47:12.732 HKSN App[21945:27874344] Unlimited access to network resources
+2015-01-27 12:47:12.734 HKSN App[21945:27874344] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 12:47:12.939 HKSN App[21945:27874344] Resetting plugins due to page load.
+2015-01-27 12:47:12.961 HKSN App[21945:27874344] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/64D183E2-7424-4D89-A243-872AB7EDE4B9/HKSN%20App.app/www/index.html
+2015-01-27 13:06:08.103 HKSN App[22238:27887999] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/B5D2FC2D-0D64-4813-8458-D419C5D6513C/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:06:08.840 HKSN App[22238:27887999] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:06:08.842 HKSN App[22238:27887999] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:06:08.873 HKSN App[22238:27887999] Unlimited access to network resources
+2015-01-27 13:06:08.909 HKSN App[22238:27887999] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:06:10.078 HKSN App[22238:27887999] Resetting plugins due to page load.
+2015-01-27 13:06:10.223 HKSN App[22238:27887999] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/27A41500-BE76-4776-BE81-36107D2CF860/HKSN%20App.app/www/index.html
+2015-01-27 13:15:34.665 HKSN App[22508:27894542] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/7F3B9F01-0599-48D6-9844-CE1212DA06B1/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:15:35.204 HKSN App[22508:27894542] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:15:35.205 HKSN App[22508:27894542] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:15:35.233 HKSN App[22508:27894542] Unlimited access to network resources
+2015-01-27 13:15:35.263 HKSN App[22508:27894542] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:15:36.260 HKSN App[22508:27894542] Resetting plugins due to page load.
+2015-01-27 13:15:36.382 HKSN App[22508:27894542] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/E7C7B4F5-E0B4-4EC4-AA39-C3D9DBB0624A/HKSN%20App.app/www/index.html
+2015-01-27 13:15:36.383 HKSN App[22508:27894542] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:15:37.717 HKSN App[22508:27894542] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/E7C7B4F5-E0B4-4EC4-AA39-C3D9DBB0624A/HKSN%20App.app/www/iphone5/index.html
+2015-01-27 13:16:28.528 HKSN App[22766:27895994] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/6873A892-4E2D-4132-88CB-2F66D1259100/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:16:28.609 HKSN App[22766:27895994] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:16:28.610 HKSN App[22766:27895994] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:16:28.611 HKSN App[22766:27895994] Unlimited access to network resources
+2015-01-27 13:16:28.613 HKSN App[22766:27895994] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:16:28.788 HKSN App[22766:27895994] Resetting plugins due to page load.
+2015-01-27 13:16:28.812 HKSN App[22766:27895994] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/2884C647-C643-4CE9-9407-101E4042DCF3/HKSN%20App.app/www/index.html
+2015-01-27 13:16:28.813 HKSN App[22766:27895994] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:16:29.097 HKSN App[22766:27895994] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/2884C647-C643-4CE9-9407-101E4042DCF3/HKSN%20App.app/www/iphone6/index.html
+2015-01-27 13:17:27.396 HKSN App[23025:27897823] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/FB7E8F35-25EA-4EBE-9551-1A91FDD744FB/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:17:27.458 HKSN App[23025:27897823] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:17:27.458 HKSN App[23025:27897823] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:17:27.459 HKSN App[23025:27897823] Unlimited access to network resources
+2015-01-27 13:17:27.461 HKSN App[23025:27897823] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:17:27.633 HKSN App[23025:27897823] Resetting plugins due to page load.
+2015-01-27 13:17:27.657 HKSN App[23025:27897823] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/2AD7FAB2-882F-4A9C-AC7E-5BC4ACC771EF/HKSN%20App.app/www/index.html
+2015-01-27 13:17:27.658 HKSN App[23025:27897823] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:17:27.955 HKSN App[23025:27897823] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/2AD7FAB2-882F-4A9C-AC7E-5BC4ACC771EF/HKSN%20App.app/www/iphone6/index.html
+2015-01-27 13:18:10.572 HKSN App[23281:27898996] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/9D967119-E231-469C-809D-EFBAAA3B44FE/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:18:10.654 HKSN App[23281:27898996] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:18:10.655 HKSN App[23281:27898996] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:18:10.656 HKSN App[23281:27898996] Unlimited access to network resources
+2015-01-27 13:18:10.658 HKSN App[23281:27898996] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:18:10.840 HKSN App[23281:27898996] Resetting plugins due to page load.
+2015-01-27 13:18:10.865 HKSN App[23281:27898996] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/B4D088CB-769F-4FD6-B7BD-15D87C8C6390/HKSN%20App.app/www/index.html
+2015-01-27 13:18:10.866 HKSN App[23281:27898996] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:18:11.133 HKSN App[23281:27898996] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/B4D088CB-769F-4FD6-B7BD-15D87C8C6390/HKSN%20App.app/www/iphone6/index.html
+2015-01-27 13:25:24.905 HKSN App[23551:27903962] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/7B232217-0AD6-4617-A896-8DF66DC9E063/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:25:24.970 HKSN App[23551:27903962] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:25:24.971 HKSN App[23551:27903962] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:25:24.972 HKSN App[23551:27903962] Unlimited access to network resources
+2015-01-27 13:25:24.974 HKSN App[23551:27903962] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:25:25.184 HKSN App[23551:27903962] Resetting plugins due to page load.
+2015-01-27 13:25:25.208 HKSN App[23551:27903962] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/1FA084CA-737E-4F71-A7F0-232A1817EDFB/HKSN%20App.app/www/index.html
+2015-01-27 13:25:25.208 HKSN App[23551:27903962] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:25:25.504 HKSN App[23551:27903962] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/1FA084CA-737E-4F71-A7F0-232A1817EDFB/HKSN%20App.app/www/iphone6/index.html
+2015-01-27 13:25:51.233 HKSN App[23807:27905151] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/D6227B82-FB27-437C-865B-EAA571AAA91F/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:25:51.308 HKSN App[23807:27905151] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:25:51.309 HKSN App[23807:27905151] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:25:51.310 HKSN App[23807:27905151] Unlimited access to network resources
+2015-01-27 13:25:51.312 HKSN App[23807:27905151] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:25:51.483 HKSN App[23807:27905151] Resetting plugins due to page load.
+2015-01-27 13:25:51.507 HKSN App[23807:27905151] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/A13B0E19-F508-4774-A7B3-7674C83C8273/HKSN%20App.app/www/index.html
+2015-01-27 13:25:51.508 HKSN App[23807:27905151] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-27 13:25:51.790 HKSN App[23807:27905151] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/A13B0E19-F508-4774-A7B3-7674C83C8273/HKSN%20App.app/www/iphone6/index.html
+2015-01-27 13:34:35.209 HKSN App[24086:27912229] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/36E7C732-1C51-4187-9A19-D298045DECE0/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:34:35.805 HKSN App[24086:27912229] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:34:35.807 HKSN App[24086:27912229] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:34:35.835 HKSN App[24086:27912229] Unlimited access to network resources
+2015-01-27 13:34:35.868 HKSN App[24086:27912229] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:34:36.960 HKSN App[24086:27912229] Resetting plugins due to page load.
+2015-01-27 13:34:37.106 HKSN App[24086:27912229] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/F925C564-5D64-431F-96E4-47C0AC09A0EC/HKSN%20App.app/www/index.html
+2015-01-27 13:35:01.276 HKSN App[24342:27913521] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/44CDC71F-0504-4FFD-ACA9-2ED87ABC6E2F/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:35:01.335 HKSN App[24342:27913521] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:35:01.335 HKSN App[24342:27913521] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:35:01.336 HKSN App[24342:27913521] Unlimited access to network resources
+2015-01-27 13:35:01.338 HKSN App[24342:27913521] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:35:01.541 HKSN App[24342:27913521] Resetting plugins due to page load.
+2015-01-27 13:35:01.578 HKSN App[24342:27913521] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/DCA17477-1D05-40E4-A383-0EC9D357992D/HKSN%20App.app/www/index.html
+2015-01-27 13:40:19.822 HKSN App[24614:27917790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/7A195852-9921-4E27-83E4-F7A95CBBB892/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:40:20.014 HKSN App[24614:27917790] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:40:20.015 HKSN App[24614:27917790] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:40:20.030 HKSN App[24614:27917790] Unlimited access to network resources
+2015-01-27 13:40:20.034 HKSN App[24614:27917790] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:40:20.787 HKSN App[24614:27917790] Resetting plugins due to page load.
+2015-01-27 13:40:20.877 HKSN App[24614:27917790] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/C9924334-6F50-44EC-AD59-4E0BEC882A26/HKSN%20App.app/www/index.html
+2015-01-27 13:40:59.067 HKSN App[24872:27919241] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/27659ECC-FF87-418F-83E4-157AA42A8D40/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:40:59.175 HKSN App[24872:27919241] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:40:59.176 HKSN App[24872:27919241] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:40:59.177 HKSN App[24872:27919241] Unlimited access to network resources
+2015-01-27 13:40:59.180 HKSN App[24872:27919241] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:40:59.365 HKSN App[24872:27919241] Resetting plugins due to page load.
+2015-01-27 13:40:59.390 HKSN App[24872:27919241] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/A66C0AF1-8DE3-4EDE-9FA0-4B1D15CE306F/HKSN%20App.app/www/index.html
+2015-01-27 13:42:23.124 HKSN App[25129:27921008] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/1AB96908-6D98-4211-939C-047215816528/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:42:23.199 HKSN App[25129:27921008] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:42:23.199 HKSN App[25129:27921008] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:42:23.200 HKSN App[25129:27921008] Unlimited access to network resources
+2015-01-27 13:42:23.202 HKSN App[25129:27921008] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:42:23.379 HKSN App[25129:27921008] Resetting plugins due to page load.
+2015-01-27 13:42:23.404 HKSN App[25129:27921008] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/6DF5645E-03E6-46FB-8D6A-EBD35E280BC1/HKSN%20App.app/www/index.html
+2015-01-27 13:42:57.577 HKSN App[25385:27922445] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/076B4F96-F9EE-4C3A-A54E-817F376D7B0B/Library/Cookies/Cookies.binarycookies
+2015-01-27 13:42:57.656 HKSN App[25385:27922445] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 13:42:57.656 HKSN App[25385:27922445] Multi-tasking -> Device: YES, App: YES
+2015-01-27 13:42:57.657 HKSN App[25385:27922445] Unlimited access to network resources
+2015-01-27 13:42:57.659 HKSN App[25385:27922445] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 13:42:57.837 HKSN App[25385:27922445] Resetting plugins due to page load.
+2015-01-27 13:42:57.861 HKSN App[25385:27922445] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/4533F19D-9508-4CA7-88FD-380925690C60/HKSN%20App.app/www/index.html
+2015-01-27 14:34:10.838 HKSN App[25684:27947043] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/D1073592-515C-4042-9CD9-0D78BB1A89FB/Library/Cookies/Cookies.binarycookies
+2015-01-27 14:34:10.901 HKSN App[25684:27947043] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 14:34:10.902 HKSN App[25684:27947043] Multi-tasking -> Device: YES, App: YES
+2015-01-27 14:34:10.903 HKSN App[25684:27947043] Unlimited access to network resources
+2015-01-27 14:34:10.905 HKSN App[25684:27947043] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 14:34:11.180 HKSN App[25684:27947043] Resetting plugins due to page load.
+2015-01-27 14:34:11.306 HKSN App[25684:27947043] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/ED6FDB5A-41D6-4D59-8D27-AC47E3B99D74/HKSN%20App.app/www/index.html
+2015-01-27 14:35:05.663 HKSN App[25942:27948578] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/6F7F88BE-07A8-4FCB-ABA5-661D9EF6201D/Library/Cookies/Cookies.binarycookies
+2015-01-27 14:35:05.737 HKSN App[25942:27948578] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 14:35:05.737 HKSN App[25942:27948578] Multi-tasking -> Device: YES, App: YES
+2015-01-27 14:35:05.739 HKSN App[25942:27948578] Unlimited access to network resources
+2015-01-27 14:35:05.741 HKSN App[25942:27948578] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 14:35:05.910 HKSN App[25942:27948578] Resetting plugins due to page load.
+2015-01-27 14:35:05.940 HKSN App[25942:27948578] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/AE2388E3-A199-4828-B24E-D046CBB39B37/HKSN%20App.app/www/index.html
+2015-01-28 00:36:35.758 HKSN App[26953:28235693] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/EF271105-1796-41A7-8A89-7035CEFE9521/Library/Cookies/Cookies.binarycookies
+2015-01-28 00:36:36.123 HKSN App[26953:28235693] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 00:36:36.123 HKSN App[26953:28235693] Multi-tasking -> Device: YES, App: YES
+2015-01-28 00:36:36.147 HKSN App[26953:28235693] Unlimited access to network resources
+2015-01-28 00:36:36.164 HKSN App[26953:28235693] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 00:36:36.908 HKSN App[26953:28235693] Resetting plugins due to page load.
+2015-01-28 00:36:37.012 HKSN App[26953:28235693] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/E0FA509F-AC82-4D05-97A4-3228261180AE/HKSN%20App.app/www/index.html
+2015-01-28 00:36:56.284 HKSN App[27213:28236791] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/329437D0-1134-44B5-B337-FC6FC6850BA0/Library/Cookies/Cookies.binarycookies
+2015-01-28 00:36:56.393 HKSN App[27213:28236791] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 00:36:56.393 HKSN App[27213:28236791] Multi-tasking -> Device: YES, App: YES
+2015-01-28 00:36:56.395 HKSN App[27213:28236791] Unlimited access to network resources
+2015-01-28 00:36:56.398 HKSN App[27213:28236791] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 00:36:56.602 HKSN App[27213:28236791] Resetting plugins due to page load.
+2015-01-28 00:36:56.634 HKSN App[27213:28236791] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/9E074E30-4BCC-4E61-A6E0-0503CA5EAF7F/HKSN%20App.app/www/index.html
+2015-01-28 00:39:06.156 HKSN App[27453:28239301] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/53B637E7-203D-4513-AC96-51B39DC1F622/Library/Cookies/Cookies.binarycookies
+2015-01-28 00:39:06.230 HKSN App[27453:28239301] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 00:39:06.230 HKSN App[27453:28239301] Multi-tasking -> Device: YES, App: YES
+2015-01-28 00:39:06.231 HKSN App[27453:28239301] Unlimited access to network resources
+2015-01-28 00:39:06.233 HKSN App[27453:28239301] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 00:39:06.500 HKSN App[27453:28239301] Resetting plugins due to page load.
+2015-01-28 00:39:06.531 HKSN App[27453:28239301] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/A58BC22B-D927-4E88-8289-27136EAEED1C/HKSN%20App.app/www/index.html
+2015-01-28 01:55:34.448 HKSN App[28516:28272721] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/68EFF422-3E2D-4F13-AD36-25A200E8FC5C/Library/Cookies/Cookies.binarycookies
+2015-01-28 01:55:34.604 HKSN App[28516:28272721] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 01:55:34.605 HKSN App[28516:28272721] Multi-tasking -> Device: YES, App: YES
+2015-01-28 01:55:34.607 HKSN App[28516:28272721] Unlimited access to network resources
+2015-01-28 01:55:34.609 HKSN App[28516:28272721] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 01:55:35.064 HKSN App[28516:28272721] Resetting plugins due to page load.
+2015-01-28 01:55:35.109 HKSN App[28516:28272721] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/8EF4E3ED-2806-4E8E-A6FD-506E099B3244/HKSN%20App.app/www/index.html
+2015-01-28 01:56:04.097 HKSN App[28776:28274118] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/53263C38-A97A-4863-ADF8-C0C17FD17E7B/Library/Cookies/Cookies.binarycookies
+2015-01-28 01:56:04.219 HKSN App[28776:28274118] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 01:56:04.220 HKSN App[28776:28274118] Multi-tasking -> Device: YES, App: YES
+2015-01-28 01:56:04.222 HKSN App[28776:28274118] Unlimited access to network resources
+2015-01-28 01:56:04.223 HKSN App[28776:28274118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 01:56:04.433 HKSN App[28776:28274118] Resetting plugins due to page load.
+2015-01-28 01:56:04.467 HKSN App[28776:28274118] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/664A2DDC-5846-4EC7-87E9-6AB8F12C475A/HKSN%20App.app/www/index.html
+2015-01-28 01:57:01.825 HKSN App[29036:28275693] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/B181CEDC-0B61-43A3-BFFE-DE8F867F05EA/Library/Cookies/Cookies.binarycookies
+2015-01-28 01:57:01.934 HKSN App[29036:28275693] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 01:57:01.934 HKSN App[29036:28275693] Multi-tasking -> Device: YES, App: YES
+2015-01-28 01:57:01.936 HKSN App[29036:28275693] Unlimited access to network resources
+2015-01-28 01:57:01.938 HKSN App[29036:28275693] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 01:57:02.123 HKSN App[29036:28275693] Resetting plugins due to page load.
+2015-01-28 01:57:02.153 HKSN App[29036:28275693] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/2D84B0CC-5DC6-4BBE-87A3-2AE15E4C9E17/HKSN%20App.app/www/index.html
+2015-01-28 01:57:51.895 HKSN App[29295:28276987] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/99065C15-5328-4B58-8751-047EDC6A1691/Library/Cookies/Cookies.binarycookies
+2015-01-28 01:57:51.983 HKSN App[29295:28276987] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 01:57:51.983 HKSN App[29295:28276987] Multi-tasking -> Device: YES, App: YES
+2015-01-28 01:57:51.985 HKSN App[29295:28276987] Unlimited access to network resources
+2015-01-28 01:57:51.987 HKSN App[29295:28276987] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 01:57:52.211 HKSN App[29295:28276987] Resetting plugins due to page load.
+2015-01-28 01:57:52.244 HKSN App[29295:28276987] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/24E8CE63-E461-4CE2-9927-280F4C3BBCD3/HKSN%20App.app/www/index.html
+2015-01-28 02:01:23.686 HKSN App[29295:28279641] Terminating since there is no system app.
+2015-01-28 02:01:28.314 HKSN App[29558:28280032] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/85658365-57B9-4143-91AE-28E0C3AF2FE7/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:01:28.395 HKSN App[29558:28280032] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:01:28.395 HKSN App[29558:28280032] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:01:28.397 HKSN App[29558:28280032] Unlimited access to network resources
+2015-01-28 02:01:28.399 HKSN App[29558:28280032] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:01:28.607 HKSN App[29558:28280032] Resetting plugins due to page load.
+2015-01-28 02:01:28.632 HKSN App[29558:28280032] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/86E73BE8-6B60-459B-8DB3-CB60F9D68DB6/HKSN%20App.app/www/index.html
+2015-01-28 02:01:54.833 HKSN App[29817:28281320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/CC0EC4F7-B56F-4970-A388-5B742BDC7F16/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:01:54.954 HKSN App[29817:28281320] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:01:54.955 HKSN App[29817:28281320] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:01:54.956 HKSN App[29817:28281320] Unlimited access to network resources
+2015-01-28 02:01:54.958 HKSN App[29817:28281320] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:01:55.151 HKSN App[29817:28281320] Resetting plugins due to page load.
+2015-01-28 02:01:55.178 HKSN App[29817:28281320] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/D6FAC0C6-BC16-463F-B19E-AA5006E00607/HKSN%20App.app/www/index.html
+2015-01-28 02:02:16.439 HKSN App[30036:28282127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/19BAFF6D-BD41-4915-B8E5-D01A11F928D3/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:02:16.524 HKSN App[30036:28282127] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:02:16.525 HKSN App[30036:28282127] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:02:16.526 HKSN App[30036:28282127] Unlimited access to network resources
+2015-01-28 02:02:16.528 HKSN App[30036:28282127] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:02:16.705 HKSN App[30036:28282127] Resetting plugins due to page load.
+2015-01-28 02:02:16.730 HKSN App[30036:28282127] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/8B75ED9B-E375-4512-8BD0-89A3F4CF3F3F/HKSN%20App.app/www/index.html
+2015-01-28 02:03:25.183 HKSN App[30296:28283809] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/5BA73092-B100-4E35-AFD0-DBB471E23AEA/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:03:25.287 HKSN App[30296:28283809] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:03:25.288 HKSN App[30296:28283809] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:03:25.289 HKSN App[30296:28283809] Unlimited access to network resources
+2015-01-28 02:03:25.291 HKSN App[30296:28283809] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:03:25.498 HKSN App[30296:28283809] Resetting plugins due to page load.
+2015-01-28 02:03:25.529 HKSN App[30296:28283809] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/1B957AA1-1F38-46B1-95EA-D89450603C70/HKSN%20App.app/www/index.html
+2015-01-28 02:03:25.547 HKSN App[30296:28283809] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-28 02:03:26.086 HKSN App[30296:28283809] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/1B957AA1-1F38-46B1-95EA-D89450603C70/HKSN%20App.app/www/iphone6/index.html
+2015-01-28 02:03:59.914 HKSN App[30557:28285042] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/6094AC0A-2C51-40C3-92AA-A397CB512381/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:04:00.027 HKSN App[30557:28285042] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:04:00.028 HKSN App[30557:28285042] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:04:00.029 HKSN App[30557:28285042] Unlimited access to network resources
+2015-01-28 02:04:00.031 HKSN App[30557:28285042] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:04:00.220 HKSN App[30557:28285042] Resetting plugins due to page load.
+2015-01-28 02:04:00.253 HKSN App[30557:28285042] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/80CF2681-426D-4C10-99D1-DB3FBB674CDD/HKSN%20App.app/www/index.html
+2015-01-28 02:04:00.268 HKSN App[30557:28285042] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-28 02:04:01.035 HKSN App[30557:28285042] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/80CF2681-426D-4C10-99D1-DB3FBB674CDD/HKSN%20App.app/www/iphone5/index.html
+2015-01-28 02:04:18.925 HKSN App[30814:28285940] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Data/Application/A854CDD1-2A6E-408C-9659-8E518AA14053/Library/Cookies/Cookies.binarycookies
+2015-01-28 02:04:18.995 HKSN App[30814:28285940] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-28 02:04:18.995 HKSN App[30814:28285940] Multi-tasking -> Device: YES, App: YES
+2015-01-28 02:04:18.996 HKSN App[30814:28285940] Unlimited access to network resources
+2015-01-28 02:04:18.999 HKSN App[30814:28285940] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-28 02:04:19.171 HKSN App[30814:28285940] Resetting plugins due to page load.
+2015-01-28 02:04:19.204 HKSN App[30814:28285940] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Bundle/Application/4F59447E-2705-4B07-81EF-843547BA0383/HKSN%20App.app/www/index.html
+2015-01-28 02:04:19.219 HKSN App[30814:28285940] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-28 02:04:19.927 HKSN App[30814:28285940] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/49439E1F-6B26-4C21-962E-590BE2233E63/data/Containers/Bundle/Application/4F59447E-2705-4B07-81EF-843547BA0383/HKSN%20App.app/www/iphone5/index.html
+2015-01-29 12:21:22.415 HKSN App[33126:28813139] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/5455648C-D128-449B-A156-B3F40B392A2A/Library/Cookies/Cookies.binarycookies
+2015-01-29 12:21:22.757 HKSN App[33126:28813139] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 12:21:22.758 HKSN App[33126:28813139] Multi-tasking -> Device: YES, App: YES
+2015-01-29 12:21:22.776 HKSN App[33126:28813139] Unlimited access to network resources
+2015-01-29 12:21:22.790 HKSN App[33126:28813139] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 12:21:23.469 HKSN App[33126:28813139] Resetting plugins due to page load.
+2015-01-29 12:21:23.563 HKSN App[33126:28813139] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/1D49E096-B61F-41D7-9D30-3BB2A0FBE70E/HKSN%20App.app/www/index.html
+2015-01-29 12:21:23.613 HKSN App[33126:28813139] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-29 12:21:24.515 HKSN App[33126:28813139] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/1D49E096-B61F-41D7-9D30-3BB2A0FBE70E/HKSN%20App.app/www/iphone5/index.html
+2015-01-29 12:32:41.819 HKSN App[33451:28820967] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/95815E2E-3C88-4299-BDE6-6ECD98E0AE6C/Library/Cookies/Cookies.binarycookies
+2015-01-29 12:32:41.892 HKSN App[33451:28820967] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 12:32:41.893 HKSN App[33451:28820967] Multi-tasking -> Device: YES, App: YES
+2015-01-29 12:32:41.894 HKSN App[33451:28820967] Unlimited access to network resources
+2015-01-29 12:32:41.896 HKSN App[33451:28820967] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 12:32:42.073 HKSN App[33451:28820967] Resetting plugins due to page load.
+2015-01-29 12:32:42.102 HKSN App[33451:28820967] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/FCF5E54E-A8BE-46BF-B4D4-3B0C6265DEA2/HKSN%20App.app/www/index.html
+2015-01-29 12:32:42.117 HKSN App[33451:28820967] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-29 12:32:42.844 HKSN App[33451:28820967] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/FCF5E54E-A8BE-46BF-B4D4-3B0C6265DEA2/HKSN%20App.app/www/iphone5/index.html
+2015-01-29 15:54:23.248 HKSN App[34036:28916368] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Data/Application/668ED532-E773-46C1-9270-39DB554B6128/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:54:23.316 HKSN App[34036:28916368] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:54:23.317 HKSN App[34036:28916368] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:54:23.319 HKSN App[34036:28916368] Unlimited access to network resources
+2015-01-29 15:54:23.321 HKSN App[34036:28916368] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:54:23.659 HKSN App[34036:28916368] Resetting plugins due to page load.
+2015-01-29 15:54:23.707 HKSN App[34036:28916368] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/DC51452C-5ED4-4503-8C30-85AFCE1D6A30/HKSN%20App.app/www/index.html
+2015-01-29 15:54:23.730 HKSN App[34036:28916368] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-29 15:54:24.034 HKSN App[34036:28916368] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/3E163AF2-760B-4A18-857B-19B462BE5923/data/Containers/Bundle/Application/DC51452C-5ED4-4503-8C30-85AFCE1D6A30/HKSN%20App.app/www/iphone6/index.html
+2015-01-29 15:55:18.448 HKSN App[34280:28917934] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Data/Application/6EE66189-F151-43FB-B811-1CAB8949C7BA/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:55:18.516 HKSN App[34280:28917934] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:55:18.516 HKSN App[34280:28917934] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:55:18.518 HKSN App[34280:28917934] Unlimited access to network resources
+2015-01-29 15:55:18.520 HKSN App[34280:28917934] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:55:18.698 HKSN App[34280:28917934] Resetting plugins due to page load.
+2015-01-29 15:55:18.729 HKSN App[34280:28917934] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/0EA599AA-4EFF-4C97-ACED-6EA03D2393F0/HKSN%20App.app/www/index.html
+2015-01-29 15:55:18.743 HKSN App[34280:28917934] Resetting plugins due to page load.
+*** ImageIO - could not find ColorSync function 'ColorSyncProfileCreateSanitizedCopy'
+2015-01-29 15:55:19.021 HKSN App[34280:28917934] Finished load of: file:///Users/michaelchum/Library/Developer/CoreSimulator/Devices/7CECC754-7E51-4933-A0F4-3F829937DB0F/data/Containers/Bundle/Application/0EA599AA-4EFF-4C97-ACED-6EA03D2393F0/HKSN%20App.app/www/iphone5/index.html
